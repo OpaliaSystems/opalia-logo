@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="1800"
+   height="1800"
+   sodipodi:docname="opalia-logo-black.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     id="namedview4"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:zoom="10.24"
+     inkscape:cx="16.723633"
+     inkscape:cy="1782.7463"
+     inkscape:window-x="1364"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:#ffffff;display:inline"
+       d="M 100.35383,1800.0434 C 49.027577,1799.9999 0.07918359,1751.6212 0.02820878,1698.7956 -279.17405,1151.4361 -447.21336,603.24423 -0.0408788,103.97779 0.05723288,50.092297 49.804187,0.01396793 103.28029,0.15169167 367.7755,-78.54388 882.46691,-246.23638 1313.0042,-0.08645559 1572.0118,172.54791 1762.0696,468.98919 1758.0176,786.24532 1764.2994,1085.3168 1586.5051,1385.8295 1306.8949,1501.719 1055.4313,1611.4161 731.49018,1556.4876 551.54262,1341.6622 400.46807,1172.4942 365.12387,911.57168 468.24127,708.43538 549.07569,525.96725 752.28045,410.75187 950.52694,433.88655 1193.9419,451.86994 1395.4542,683.9174 1377.6399,927.86756 1374.1331,1104.419 1243.5306,1284.0926 1079.3977,1352.2424 1357.61,1291.6701 1515.0589,1058.127 1500.2249,817.25711 1495.0086,551.37378 1281.0459,318.93561 1024.8967,265.68714 716.02925,189.29677 382.60489,372.54862 248.52634,653.51219 100.31022,942.59324 158.22166,1310.8513 359.93813,1560.1507 c 70.81952,93.3739 168.84375,176.8929 264.42498,243.8271 -345.67981,36.1349 -392.76758,22.5236 -524.00928,-3.9344 z M 926.63366,1226.6856 C 1097.1027,1215.9272 1236.0192,1052.1504 1220.4357,882.6165 1211.811,709.78942 1044.7138,565.51618 872.00996,585.58212 692.38018,595.33542 547.20922,777.85839 581.08603,955.46073 602.05834,1119.8008 762.77604,1243.3136 926.63366,1226.6856 z"
+       id="path3067-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  </g>
+</svg>
